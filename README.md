@@ -1,40 +1,24 @@
-# 📊 Products Launch Analysis — Power BI
+# 📊 Power BI Projects
 
-A beginner Power BI project exploring product launches over time and the distribution of products by size.
+A collection of my Power BI projects exploring data visualization, analytics, dashboards, and business insights.
 
-## 📌 Project Overview
+## 📁 Projects
 
-This dashboard was created using Microsoft Power BI to visualize product launch trends and understand the distribution of products across different sizes.
+### 01. Products Launch Analysis
 
-## 📊 Dashboard
+An introductory Power BI dashboard analyzing product launches over time and product size distribution.
 
-![Products Launch Dashboard](dashboard.png)
+**Topics:** Data Visualization · Power BI · Basic Analytics
 
-## 🔍 Analysis
+---
 
-The dashboard currently includes:
+### 🚧 More projects coming soon...
 
-* Number of products launched year-over-year
-* Distribution of products by product size
-* Basic visual analysis of product launch data
+This repository will be continuously updated with new Power BI projects and progressively more advanced dashboards.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 * Microsoft Power BI
 * DAX
 * Data Visualization
-
-## 📁 Files
-
-| File                   | Description          |
-| ---------------------- | -------------------- |
-| `Products launch.pbix` | Power BI report file |
-| `dashboard.png`        | Dashboard preview    |
-
-## 🚀 Future Improvements
-
-Planned improvements include adding more visualizations, interactive filters, additional DAX measures, and deeper product-launch analysis.
-
----
-
-*This is an ongoing project and will be expanded over time.*
+* Data Analysis
